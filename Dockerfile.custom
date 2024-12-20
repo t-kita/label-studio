@@ -1,0 +1,9 @@
+FROM heartexlabs/label-studio:latest
+
+# change to root user to create a new user
+USER root
+
+RUN groupadd -g 1005 labelstudio
+RUN useradd -u 1004 -g labelstudio ops-admin
+
+USER ops-admin
