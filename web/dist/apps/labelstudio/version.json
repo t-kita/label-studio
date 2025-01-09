@@ -1,6 +1,6 @@
 {
-  "message": "feat: LEAP-1424: LEAP-1370: Allow to zoom and pan the image in preview modal (#6781)",
-  "commit": "e5d54c75dd883b8b672ed515d77f7c037edccb19",
-  "date": "2024-12-18T13:42:03.000Z",
+  "message": "chore: Update liveContent.json (#6874)",
+  "commit": "40f095ad8fefbdd93cc334c7c8c8d9593a5bf764",
+  "date": "2025-01-08T14:42:22.000Z",
   "branch": "develop"
 }
